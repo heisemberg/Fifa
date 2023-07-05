@@ -108,5 +108,5 @@ def scoreEquipo(equipos):
                 print("| {:^5} | {:^5} | {:^5} | {:^5} | {:^5} | {:^5} | {:^5} |".format(item[4][0],item[4][1],item[4][2],item[4][3],item[4][4],item[4][5],item[4][6]))
                 print('+','-'*55,'+')
 
-                isScoreEquipo=bool(input("Desea agregar otro Medico S(Si) Enter(No)"))
+                isScoreEquipo=bool(input("Desea agregar otro Puntaje S(Si) Enter(No)"))
 
